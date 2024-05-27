@@ -42,7 +42,7 @@ The work presented here appeared in the proceedings of LREC 2024 and may be cite
 @inproceedings{jjvv_mip_2024,
   title = {Automatic Partitioning of a Code-Switched Speech Corpus Using Mixed-Integer Programming},
   author={Jansen van V\"{u}ren, Joshua and de Wet, Febe and Niesler, Thomas},
-  booktitle = {Proc. 13th International Conference on Language Resources and Evaluation ({LREC})},
+  booktitle = {Proc. of the Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)},
   address   = {Turin, Italy},
   year      = {2024},
 }
